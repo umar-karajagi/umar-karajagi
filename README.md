@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3200&pause=800&color=00F5D4&center=true&vCenter=true&width=780&lines=Umar+Karajagi+%7C+Data+Engineer;Building+AI-Enabled+Data+Platforms;Databricks+%C2%B7+PySpark+%C2%B7+Snowflake+%C2%B7+Azure" alt="Animated introduction" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:0A1022,100:00BFA6&height=170&section=header&text=UMAR%20KARAJAGI&fontSize=42&fontColor=F4F6FF&fontAlignY=36&desc=DATA%20ENGINEER%20%7C%20LAKEHOUSE%20ARCHITECTURE%20%7C%20GENAI%20PIPELINES&descSize=14&descAlignY=58&animation=fadeIn" alt="Umar Karajagi dark animated banner" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&duration=2800&pause=700&color=00F5D4&center=true&vCenter=true&width=780&lines=Building+AI-enabled+data+platforms;Databricks+%C2%B7+PySpark+%C2%B7+Snowflake+%C2%B7+Azure;Turning+complex+data+into+measurable+impact" alt="Animated data engineer introduction" />
 
   <br />
   <a href="https://umar-karajagi.github.io/portfolio/"><img src="https://img.shields.io/badge/Explore_my-Portfolio-00f5d4?style=for-the-badge&logo=githubpages&logoColor=0a0a0f" alt="Portfolio" /></a>
@@ -11,7 +13,11 @@
 
 <br />
 
-## About me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=umar-karajagi&style=for-the-badge&color=00BFA6&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
+
+## // ABOUT_ME
 
 ```yaml
 role: Data Engineer @ Tredence
@@ -27,7 +33,7 @@ I design scalable ETL/ELT pipelines, lakehouse platforms, and cloud data migrati
   <img height="165" src="https://streak-stats.demolab.com?user=umar-karajagi&hide_border=true&background=0A0A0F&ring=00F5D4&fire=FF006E&currStreakLabel=F0F0F5&sideLabels=F0F0F5&dates=A0A0B0&stroke=0A0A0F" alt="Umar's GitHub contribution streak" />
 </div>
 
-## Core stack
+## // CORE_STACK
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,azure,aws,gcp,githubactions,git&theme=dark" alt="Python, Azure, AWS, GCP, GitHub Actions and Git" />
@@ -66,3 +72,5 @@ I design scalable ETL/ELT pipelines, lakehouse platforms, and cloud data migrati
   <a href="https://umar-karajagi.github.io/portfolio/">Portfolio</a> · <a href="https://www.linkedin.com/in/umarkarajagi/">LinkedIn</a> · <a href="mailto:umarkarajagi9999.uk@gmail.com">Email</a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,55:0A1022,100:000000&height=100&section=footer" alt="Dark animated footer" />
