@@ -29,8 +29,11 @@ open_to: Data Engineer / Senior Data Engineer opportunities
 I design scalable ETL/ELT pipelines, lakehouse platforms, and cloud data migrations across Databricks, Azure, and Snowflake. My work focuses on turning complex data estates into governed, high-performance products.
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umar-karajagi&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=00F5D4&icon_color=8338EC&text_color=F0F0F5&ring_color=00F5D4" alt="Umar's GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=umar-karajagi&hide_border=true&background=0A0A0F&ring=00F5D4&fire=FF006E&currStreakLabel=F0F0F5&sideLabels=F0F0F5&dates=A0A0B0&stroke=0A0A0F" alt="Umar's GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umar-karajagi/umar-karajagi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umar-karajagi/umar-karajagi/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/umar-karajagi/umar-karajagi/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ## // CORE_STACK
